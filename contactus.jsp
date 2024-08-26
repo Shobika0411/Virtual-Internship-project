@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Contact Us</title>
     <style>
         body
    {
@@ -45,7 +45,7 @@
    
    #menuToggle a:hover
    {
-     color: rgb(188, 182, 238) ;
+     color: rgb(188, 182, 238);
    }
    
    
@@ -163,11 +163,11 @@
    {
      transform: none;
    }
-    .hr{
+   .hr{
     border: 1px solid lightgrey;
     border-radius: 15px;
     }
-    .logo{
+     .logo{
 
  margin-left:1400px;
 
@@ -215,12 +215,40 @@
     <br>
     <br>
     <br>
+  
     <hr class="hr">   
-    <h1><center style="color:white;">About Us</center></h1>
-    <hr class="hr">  
-    <center> 
-    <fieldset style="height: 700px;width:1000px;border:none;"><p style="margin-top: 5%;color:white;">In a limited company, the liability of members or subscribers of the company is limited to what they have invested or guaranteed to the company. Limited companies may be limited by shares or by guarantee. In a company limited by shares, the liability of members is limited to the unpaid value of shares. In a company limited by guarantee, the liability of owners is limited to such amount as the owners may undertake to contribute to the assets of the company, in the event of being wound up. The former may be further divided in public companies (public limited companies) and private companies (private limited companies). Who may become a member of a private limited company is restricted by law and by the company's rules. In contrast, anyone may buy shares in a public limited company.</p>
-</fieldset>
-</center>
+    <h1><center style="color:white">Contact Us</center></h1>
+    <hr class="hr">
+    <center>
+    <table>
+        <tr>
+        <td><img src="call.png" style="width: 35px;margin-left: 20px;"></td>
+            <td style="color:white"><div style="width: 200px;">
+            9965657423<br>
+            8825405031
+        </div></td>
+        <td><img src="gmail1.png" style="width: 55px;margin-left: 200px;"></td>
+            <td style="color:white"><div style="width: 300px;">
+            spcorporateldt@gmail.com
+        </div></td>
+        <td><img src="insta.png" style="width: 50px;margin-left: 150px;"></td>
+            <td style="color:white"><div style="width: 300px;">
+            spcorporateldt_official
+        </div></td>
+        </tr><br><br><br>    
+    </table>
+    <table>
+        <tr>
+        <td><img src="locations.png" style="width: 50px;margin-left: 200px;"></td>
+            <td style="color:white"><div style="width: 300px;">
+            Thiruvalluvar Street, Ramakrishnapuram, Villankurichi Road, Coimbatore, Tamil Nadu 641006
+        </div></td>
+        <td><img src="linkedin.png" style="width: 35px;margin-left: 150px;"></td>
+            <td style="color:white"><div style="width: 300px;">
+            spcorporateldt
+        </div></td>
+        </tr><br>
+    </table>
+    </center>
 </body>
 </html>
